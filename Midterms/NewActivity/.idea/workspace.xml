@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9150b098-8645-4685-9a46-f34a87bff035" name="Changes" comment="" />
+    <list default="true" id="455990f2-7fca-4ff2-ab0f-b97d3f724b33" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Algorithm Implementation_Activity1_Domisiw.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm Implementation_Activity1_Domisiw.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exam/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exam/.idea/Exam.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exam/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exam/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exam/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exam/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exam/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Midterms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Midterms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SortingAlgorithm/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SortingAlgorithm/.idea/SortingAlgorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SortingAlgorithm/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SortingAlgorithm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SortingAlgorithm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SortingAlgorithm/main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +36,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2mdr8GG8CNMyMtgDwDR4qh88MOF" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2nHNWM6X9pNMtuFpUnnUkUE3L3Y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,18 +51,12 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "Z:/"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="Z:\Midterms" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Midterms" />
+      <module name="NewActivity" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +93,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9150b098-8645-4685-9a46-f34a87bff035" name="Changes" comment="" />
-      <created>1727417132248</created>
+      <changelist id="455990f2-7fca-4ff2-ab0f-b97d3f724b33" name="Changes" comment="" />
+      <created>1728626071334</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727417132248</updated>
+      <updated>1728626071334</updated>
     </task>
     <servers />
   </component>
